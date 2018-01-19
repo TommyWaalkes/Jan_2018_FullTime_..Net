@@ -1,0 +1,49 @@
+Library of Alexandria 
+Tori
+Books - hit requirement, sorting works, searching works 
+Due date works.
+Check out works! 
+Return scroll works! Scroll object contains info. 
+Library class 
+
+Jill - pair programmed it together, watches synched, tag team coded, 
+due date method. Talked through the continue method well. Dug in on validation 
+
+
+Megan - thought in terms of scrolls and how to organize them, check in method
+Divide and conquoer. Started with a plan, but it had to be scrapped. Ask her the most questions ask step me through the checking the book 
+Killed it 
+
+Josh - firstmenu calls the library, program quits out by burning it down. 
+Validation checks to make sure they put in the right input 
+
+
+Point of sale 
+
+Diane - put in an index number, and create recipt, continue until you're done with you're order. 
+Nicely formatted.  Helping each other pair program problems. Great teamwork! PosApp is the master class. 
+Going through the stack got into the debit spot 
+
+
+Ariana - Order class - getpayment handles payment, choose payment type. Trim gets rid of space. Does the math of the order. 
+Found the code after searching 
+
+Christopher - researched format can use cw({0,10}), build a list of products,  builds an order one at a time and adding new products EACH TIMe. 
+Catches system exception for just doing enter  
+
+
+Minesweeper 
+
+Sabrina - next to nothing. Multi-dimensional array - it takes in coordinates 
+
+JJ - board goes +1 on all sides. Mines goes in first, then numbers surrounding the bomb. A little advanced but I could follow. 
+Back-end board hidden. 
+
+Stephanie - showed off front end. Three tables sizes, pick number of bombs. Pick coords, Front-end breaks upon re-running. Bomb will blow up. A lot of complexity 
+and used MVC for functionality and built a flow chart to design the game. Sabrina's role was sparse. 
+
+Ryan - bombs are hard to find, code broken in the final version. Worked on the front end grid. 
+
+
+How to give feedback to people in the back of the class. 
+

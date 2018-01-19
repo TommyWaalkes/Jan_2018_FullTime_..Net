@@ -1,0 +1,34 @@
+Pete - Good overall, MVP up, meeting on what to do communications, DB not working, doing migrations, realizing you had to update to m v and c. 
+API up and running quick, made a call to get objects, dealing with access token was tricky. Might come to me with Azure. Doing well 
+
+Derek - Good overall project is in a good palce, no huge roadblock ahead, team is working well, presentation feel nervous about it, talking in front, 
+Help resources for more specialized pieces, more teachers/resources, Databases were challenging, we could have used more time on that, more time Apis as well. 
+More help on oauth and tokens. 
+
+Chuck - project has been frustrating with technical hurdles, it's a slog to get through, pair programming is useful to follow along with code, Josh and Mike 
+have been helpful esp with comments in code. Plan is to observe and learn, printing out coe going over its, plan to fix merge issues. Told him to bring up difficult 
+
+Mark - Overall fine, today shitty, Anxious to know how he did on the assessment, angry at Kelsey thinks shes out to get him, under stress today, 
+studied a fair amount on his, researching apis and going through tutorial, yelp has concert info, working with a dummy excell sheet for db, 
+started MVC shell for it, weekend, reccomended looking at lab 23/ my api breakout, razor. 
+
+Josh - we can't figure out their project, a lot of stress and frustration, shooting in the dark, feel stress of being behind, ride his himself hard, overrides logic, 
+wants to write out an explicit plan, said I would come in and help after 1 on 1s. Gave him advice/encouragement, he seemed sorta recptive. Told him I'd rather code 
+drunk than angry. 
+
+Bruce - good about ID problem and passing onto the group pass around variable, no more hard coding on a button, communicating well, showed me cool stretch goals, 
+does code crunch - review new code with whole group to make sure everyone is on the same page, take a pic of white boards each day of code. Taught a mini lecture 
+on that code. 
+
+Mike - fried, been a long week, passing model into view and razor is working, results is listing location/date of previous concert, trying to use action, making progres, 
+couldn't piece things together before, generating htm in a viewbag is a bad idea. Focus is on this hurdle, doing a game plan for the weekend, will keep project code 
+for his future. passing info around in MVC is hard. 
+
+Tallon - Good overall, got a job mission accomplished, project is in a good hit MVP early, just doing stretch goals, polishing, wants to populate all the markers, 
+Worried abotu Othelle on the tech endorsement, none of the APIs, make Othelle do APIs. Collaboration has been shitty, he's sitting everyone down and sychning thing up 
+
+Othelle - Told him to get brushed up on MVC and back-end, taking charge on an API, what's to get the endorsement, wanted more time on APIs feels good likes the work 
+going good with his group a good learning experience, learn code first migration, it's so easy, definitely feels like he has the ablity. 
+
+Allison - pretty good, not too bad, been working on the views and the view layout, working with bruce on the controller for nutrients, a lot of collaboration, 
+everyone is on the same page, now she's working on the food allergy list for calling the DB. Team is self sufficent. Likes her team! 
