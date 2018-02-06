@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\bin\Debug\Mammal-Abstract.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\bin\Debug\Mammal-Abstract.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\bin\Debug\Mammal-Abstract.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\obj\Debug\AnimalAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\obj\Debug\Mammal-Abstract.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\obj\Debug\Mammal-Abstract.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\bin\Debug\Mammal-Abstract.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\bin\Debug\Mammal-Abstract.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\bin\Debug\Mammal-Abstract.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\obj\Debug\AnimalAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\obj\Debug\Mammal-Abstract.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\obj\Debug\Mammal-Abstract.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Mammal-Abstract\Mammal-Abstract\obj\Debug\AnimalAbstract.csprojResolveAssemblyReference.cache
