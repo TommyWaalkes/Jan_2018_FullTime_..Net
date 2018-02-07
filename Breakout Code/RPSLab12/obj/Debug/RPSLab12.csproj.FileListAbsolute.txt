@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPSLab12\bin\Debug\RPSLab12.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPSLab12\bin\Debug\RPSLab12.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPSLab12\bin\Debug\RPSLab12.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPSLab12\obj\Debug\RPSLab12.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPSLab12\obj\Debug\RPSLab12.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPSLab12\obj\Debug\RPSLab12.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPSLab12\obj\Debug\RPSLab12.pdb
