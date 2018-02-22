@@ -1,0 +1,28 @@
+<head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head> 
+
+<h1>Hello and Welcome to the Jungle</h1>
+
+<p>Input Width</p>
+<input id="Width" type="text">
+
+<p>Input Height</p>
+<input id="Height" type="text">
+<button onclick="CalculateDimensions()">Calculate</button>
+
+<p>Output for Room Dimensions</p>
+<p id="Output"></p>
+
+<script>
+    function CalculateDimensions(){
+    var width = document.getElementById("Width");
+    alert(width.value);
+    var height = document.getElementById("Height");
+    alert(height.value);
+
+    var output = document.getElementById("Output");
+    $("#Output").text(height.value * width.value);
+
+    }
+</script>
