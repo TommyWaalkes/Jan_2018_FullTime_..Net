@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Data";
+}
+
+<h2>Data</h2>
+
+@ViewBag.Time
+@ViewBag.Production
+
+<p>@ViewBag.APIText</p>
+
+<p>@ViewBag.JSONData</p>
+
+<p>@ViewBag.Temp</p>
+
+<p>@ViewBag.AllTemps</p>
+@foreach (string s in ViewBag.AllTemps)
+{
+    @Html.Label(s);
+    <br />
+}
+
+@ViewBag.r
+
