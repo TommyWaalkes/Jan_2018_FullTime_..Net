@@ -1,0 +1,6 @@
+Okay I got two tasks for y'all for practice: 
+
+1) Take my pokemon picker site, and add in a search by name feature, note that it will look very similar to the search by number feature. 
+
+2) Starting with my instructions, build a new api call from scratch. Every. Single. API is different, compare it to both the pokeAPI and the WeatherAPI, how is it different? 
+
